@@ -1,0 +1,37 @@
+h1 a {
+    color: yellow;
+    font-family : 'Lobster';
+    font-size : 45px ;
+}
+
+h2 a {
+    color: blueviolet;
+    font-family : 'Script MT';
+    font-size : 30px;
+}
+
+
+body {
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size : 15px;
+    font-family : 'Comic Sans MS';
+    background-color:yellowgreen ;
+
+}
+
+.page-header{
+    background-color: red;
+    margin-top : 0 ;
+    padding : 20px 20px 20px 40px;
+
+    
+}
+
+.post{
+    margin-bottom: 70px;
+    margin-left:60px;
+    margin-right:60px;
+    color : white;
+    background-color: black;
+}
